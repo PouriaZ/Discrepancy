@@ -6,7 +6,7 @@ Contact: [Pourya Habib Zadeh](mailto:pourya@mit.edu) or [Suvrit Sra](mailto:suvr
 
 ## How To Start ##
 
-To use the code, make sure you have installed CVX, and run the following line to compute the discrepancy values of square matrix A:
+To use the code, make sure you have installed CVX, and run the following line on MATLAB to compute the discrepancy values of square matrix A:
 ```
 disc = discrepancy(A);
 ```
